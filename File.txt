@@ -1,2 +1,2 @@
 print("Hello!");
-print("Happy birthday!");
+print("HowAreYou");
